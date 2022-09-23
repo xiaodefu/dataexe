@@ -1,2 +1,1 @@
-k filter=lfs diff=lfs merge=lfs -text
-../executable_file.zip filter=lfs diff=lfs merge=lfs -text
+executable_file.zip filter=lfs diff=lfs merge=lfs -text
